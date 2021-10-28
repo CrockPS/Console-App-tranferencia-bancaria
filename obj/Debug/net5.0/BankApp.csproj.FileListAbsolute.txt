@@ -1,0 +1,16 @@
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\BankApp.exe
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\BankApp.deps.json
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\BankApp.runtimeconfig.json
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\BankApp.runtimeconfig.dev.json
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\BankApp.dll
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\ref\BankApp.dll
+C:\Users\Cassio\Desktop\C#\BankApp\bin\Debug\net5.0\BankApp.pdb
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.csproj.AssemblyReference.cache
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.AssemblyInfo.cs
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.dll
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\ref\BankApp.dll
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.pdb
+C:\Users\Cassio\Desktop\C#\BankApp\obj\Debug\net5.0\BankApp.genruntimeconfig.cache
